@@ -61,7 +61,7 @@ int main(void) {
                 scanf("%f",&x);
                 printf("Digite o expoente: ");
                 scanf("%f",&y);
-                pot = pow(x, y);
+                pot=pow(x, y);
                 printf("\nO resultado da eh: %.3f\n", pot);
                 break;
 
